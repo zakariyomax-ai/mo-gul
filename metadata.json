@@ -1,0 +1,6 @@
+{
+  "name": "Mo'g'ullar Davlati — Jahon Tarixi 7-sinf",
+  "description": "7-sinf Jahon tarixi 11-mavzu: Mo'g'ullar davlati, asosiy tushunchalar, harbiy tizim, uluslar va 30 ta interaktiv test.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
